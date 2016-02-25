@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaovid01oviduoft_0047.png"; bbox 0 0 1601 2484; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 216 926 1264 1364">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 216 926 1264 1364">
+     <span class='ocr_line' id='line_1_1' title="bbox 566 926 945 991; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 566 926 945 991; x_wconf 80' lang='lat' dir='ltr'><strong>TRISTIA.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 216 1113 1264 1178; baseline 0 -1"><span class='ocrx_word' id='word_1_2' title='bbox 216 1113 436 1178; x_wconf 77' lang='lat' dir='ltr'><strong>IBIS.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 498 1115 624 1178; x_wconf 83' lang='lat' dir='ltr'><strong>EX</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 661 1114 959 1178; x_wconf 82' lang='lat' dir='ltr'>PONTO</span> <span class='ocrx_word' id='word_1_5' title='bbox 1000 1113 1264 1177; x_wconf 81' lang='lat' dir='ltr'><strong>LIBRI.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 616 1299 885 1364; baseline 0.004 -2"><span class='ocrx_word' id='word_1_6' title='bbox 616 1299 885 1364; x_wconf 76' lang='lat' dir='ltr'><strong>FASTI.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
